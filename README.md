@@ -51,4 +51,6 @@ A 2D tile-based adventure game built with Java Swing and AWT. Explore mazes, col
 - `src/sound/`: `.wav` files for music and sound effects.
 
 ---
+*Developed by Badhon Saha*
+
 *Created as a personal project to explore 2D game development in Java.*
